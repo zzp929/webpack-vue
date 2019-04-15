@@ -8,13 +8,13 @@
     export default {
         data() {
             return {
-                text: 'hello'
+                text: '11111'
             }
         }
     }
 </script>
 
-<style>
+<style scoped lang="stylus" rel="stylesheet/stylus">
     #text {
         color: red;
     }
