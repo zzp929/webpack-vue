@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e94dbdc2-857d-4406-8e33-31ac4e754366" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/tabs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/todo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/todo.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -222,7 +218,7 @@
       <workItem from="1555309418998" duration="268000" />
       <workItem from="1555310902778" duration="7991000" />
       <workItem from="1555376989105" duration="13991000" />
-      <workItem from="1555463320956" duration="13903000" />
+      <workItem from="1555463320956" duration="14189000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1555054195104</created>
@@ -245,24 +241,30 @@
       <option name="project" value="LOCAL" />
       <updated>1555480222296</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="111">
+      <created>1555484039597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555484039597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67044000" />
+    <option name="totallyTimeSpent" value="67330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10484721" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021075" side_tool="true" weight="0.33006537" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.5021075" side_tool="true" visible="true" weight="0.33006537" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.33006537" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.33006537" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
