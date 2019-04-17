@@ -1,0 +1,9 @@
+//vue的render方法以及支持jsx代码
+{
+  "presets": [
+    "env"
+  ],
+  "plugins": [
+    "transform-vue-jsx"
+  ]
+}
