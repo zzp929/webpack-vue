@@ -11,12 +11,12 @@
         props: {
             todo: {
                 type: Object,
-                required: true,
+                require: true
             }
         },
         methods: {
             deleteTodo() {
-                this.$emit('del', this.todo.id)
+                this.$emit('del', this.todo.id)   //传递给父组件
             }
         }
     }

@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e94dbdc2-857d-4406-8e33-31ac4e754366" name="Default" comment="111">
-      <change afterPath="$PROJECT_DIR$/src/Todo/footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/item.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/tabs.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/todo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/done.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/round.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/footer.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/global.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+    <list default="true" id="e94dbdc2-857d-4406-8e33-31ac4e754366" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/item.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/todo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/todo.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,11 +23,11 @@
       <file leaf-file-name="todo.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Todo/todo.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="203">
+              <caret line="50" column="70" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="70" />
               <folding>
                 <element signature="e#472#501#0" expanded="true" />
-                <element signature="e#558#1351#0" />
+                <element signature="e#1377#1409#0" />
                 <element signature="n#style#0;n#!!top" />
               </folding>
             </state>
@@ -53,9 +37,25 @@
       <file leaf-file-name="item.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Todo/item.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="25">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
               <folding>
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabs.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Todo/tabs.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+              <folding>
+                <element signature="e#483#532#0" />
+                <element signature="e#545#593#0" />
+                <element signature="e#608#677#0" />
+                <element signature="e#812#858#0" />
                 <element signature="n#style#0;n#!!top" />
               </folding>
             </state>
@@ -80,6 +80,10 @@
       <find>body</find>
       <find>HtmlPlugins</find>
       <find>VueLoaderPlugin</find>
+      <find>autofocus</find>
+      <find>filter</find>
+      <find>filteredTodos</find>
+      <find>todos</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/Todo/footer.jsx" />
         <option value="$PROJECT_DIR$/src/Todo/item.vue" />
         <option value="$PROJECT_DIR$/src/Todo/todo.vue" />
+        <option value="$PROJECT_DIR$/src/Todo/tabs.vue" />
       </list>
     </option>
   </component>
@@ -217,7 +222,7 @@
       <workItem from="1555309418998" duration="268000" />
       <workItem from="1555310902778" duration="7991000" />
       <workItem from="1555376989105" duration="13991000" />
-      <workItem from="1555463320956" duration="9846000" />
+      <workItem from="1555463320956" duration="13903000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1555054195104</created>
@@ -233,24 +238,31 @@
       <option name="project" value="LOCAL" />
       <updated>1555307632885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="111">
+      <created>1555480222296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555480222296</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62987000" />
+    <option name="totallyTimeSpent" value="67044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10484721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10484721" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021075" side_tool="true" weight="0.33006537" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.33006537" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.33006537" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
@@ -446,13 +458,6 @@
     <entry file="file://$PROJECT_DIR$/src/assets/images/1111.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Todo/tabs.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/bundle.js" />
     <entry file="file://$PROJECT_DIR$/dist/styles.8b886799.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -505,16 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/images/round.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -549,17 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="e#172#206#0" expanded="true" />
-            <element signature="n#style#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Todo/header.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -567,17 +551,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#172#206#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Todo/footer.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Todo/tabs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="e#483#532#0" />
+            <element signature="e#545#593#0" />
+            <element signature="e#608#677#0" />
+            <element signature="e#812#858#0" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Todo/item.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="25">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#!!top" />
           </folding>
@@ -586,11 +605,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Todo/todo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="203">
+          <caret line="50" column="70" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="70" />
           <folding>
             <element signature="e#472#501#0" expanded="true" />
-            <element signature="e#558#1351#0" />
+            <element signature="e#1377#1409#0" />
             <element signature="n#style#0;n#!!top" />
           </folding>
         </state>

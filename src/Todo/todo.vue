@@ -10,12 +10,12 @@
     import Item from './item.vue'
     import Tabs from './tabs.vue'
 
-    let id = 0;
+    let id = 0
     export default {
         data() {
             return {
                 todos: [],
-                filter: 'all'
+                filter: 'all',
             }
         },
         components: {
@@ -33,6 +33,7 @@
         },
         methods: {
             addTodo(e) {
+                // trim()去掉前后空格
                 this.todos.unshift({
                     id: id++,
                     content: e.target.value.trim(),
